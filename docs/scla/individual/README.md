@@ -32,3 +32,7 @@ You are not expected to provide support for your contributions, except to the ex
 Should you wish to submit work that is not your original creation, you may submit it to Sequømics separately from any contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
 
 <b><u>Note</u></b>: We are <b>not accepting</b> derivative work.
+
+<b>8. Agreement:</b>
+
+You agree to notify Sequømics of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
