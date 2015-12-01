@@ -36,3 +36,5 @@ Should you wish to submit work that is not your original creation, you may submi
 <b>8. Agreement:</b>
 
 You agree to notify Sequømics of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
+
+Copyright © 2014 - 2015 [Sequømics Corporation](http://sequomics.com/). All rights reserved.
