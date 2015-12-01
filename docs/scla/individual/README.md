@@ -18,3 +18,7 @@ Subject to the terms and conditions of this agreement, You hereby grant to Sequ�
 <b>4. Legal Entitlement.</b>
 
 You represent that you are legally entitled to grant the above license. If your employer(s) has rights to intellectual property that you create that includes your contributions, you represent that you have received permission to make contributions on behalf of that employer, that your employer has waived such rights for your contributions to Sequømics, or that your employer has executed a separate Corporate CLA with Sequømics.
+
+<b>5. Originality of Work.</b>
+
+You represent that each of your contributions is your original creation (see section 7. for submissions on behalf of others). You represent that your contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of your contributions.
