@@ -19,3 +19,4 @@
  */
  
 // # Usage: $ node -v
+// # Usage: $ npm -v
