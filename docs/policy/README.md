@@ -1,0 +1,1 @@
+# Sequømics Privacy Policy
