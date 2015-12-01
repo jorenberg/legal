@@ -30,3 +30,7 @@ javascripts_dir = "source/core/javascripts"
 
 # To enable relative paths to assets via compass helper functions:
 relative_assets = true
+
+# To disable debugging comments that display the original location of the selectors:
+# options: true || false
+line_comments = true
