@@ -8,3 +8,5 @@ To begin contributing to Sequømics's open source projects, you and/or your empl
 ### To get started, select your type of organization:
 1. [Individual](individual/README.md) [only one person]
 2. [Company](company/README.md) [Min<sup>m</sup> two persons]
+
+Copyright © 2014 - 2015 [Sequømics Corporation](http://sequomics.com/). All rights reserved.
