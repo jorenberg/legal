@@ -17,3 +17,10 @@
 
 # Require compass plugin:
 require 'compass/import-once/activate'
+
+# Setting the root path of project:
+http_path       = "/"
+css_dir         = "source/core/stylesheets"
+sass_dir        = "source/core/sass"
+images_dir      = "source/core/images"
+javascripts_dir = "source/core/javascripts"
