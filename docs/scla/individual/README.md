@@ -26,3 +26,9 @@ You represent that each of your contributions is your original creation (see sec
 <b>6. Support Limitations.</b>
 
 You are not expected to provide support for your contributions, except to the extent you desire to provide support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or agreed to in writing, you provide your contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
+
+<b>7. Derivative Work.</b>
+
+Should you wish to submit work that is not your original creation, you may submit it to Sequømics separately from any contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
+
+<b><u>Note</u></b>: We are <b>not accepting</b> derivative work.
