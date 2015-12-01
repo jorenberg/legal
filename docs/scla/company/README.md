@@ -38,3 +38,5 @@ Should you wish to submit work that is not your original creation, you may submi
 <b>8. Agreement:</b>
 
 It is your responsibility to notify Sequømics when any change is required to the list of designated employees authorized to submit the contributions on behalf of the Corporation, or to the Corporation's Point of Contact with Sequømics. Also, you agree to notify Sequømics of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect, such as <b><u>Violations of this Agreement</u></b>.
+
+Copyright © 2014 - 2015 [Sequømics Corporation](http://sequomics.com/). All rights reserved.
