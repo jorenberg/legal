@@ -9,3 +9,6 @@ We are very passionate about invention and innovation through Research and Disco
 We are scientists, mathematicians, engineers, design thinkers and innovators; and working to bring innovations into the human life.
 
 The company is established in "2014" to meet the growing demand of Data Science through high degree of Data Research & Innovations.
+
+## Our Specialities
+Algorithms, Data Science, Scientific Computing, Computational Genomics, Computational Proteomics, Computational Chemistry, Computational Statistics, Machine Learning, Computational Linguistics, Natural Language Processing, Text Retrieval, Data Mining, Data Cleaning and Processing, Graph Theory, Data Visualisation, Predictive Analytics, Building Databases and KnowledgeBase, Data Products, Information & Technical Architecture, Project Management, Program Management, Operations Research, Research & Innovation Management and International Business.
