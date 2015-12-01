@@ -22,3 +22,7 @@ You represent that you are legally entitled to grant the above license. If your 
 <b>5. Originality of Work.</b>
 
 You represent that each of your contributions is your original creation (see section 7. for submissions on behalf of others). You represent that your contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of your contributions.
+
+<b>6. Support Limitations.</b>
+
+You are not expected to provide support for your contributions, except to the extent you desire to provide support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or agreed to in writing, you provide your contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
