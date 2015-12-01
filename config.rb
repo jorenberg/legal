@@ -24,3 +24,6 @@ css_dir         = "source/core/stylesheets"
 sass_dir        = "source/core/sass"
 images_dir      = "source/core/images"
 javascripts_dir = "source/core/javascripts"
+
+# Preferred output style here (can be overridden via the command line):
+# output_style = :expanded or :nested or :compact or :compressed
