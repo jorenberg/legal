@@ -10,3 +10,7 @@ You accept and agree to the following terms and conditions for your present and 
 <b>2. Grant of Copyright License.</b>
 
 Subject to the terms and conditions of this agreement, You hereby grant to Sequømics and to recipients of software distributed by Sequømics a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute your contributions and such derivative works.
+
+<b>3. Grant of Patent License.</b>
+
+Subject to the terms and conditions of this agreement, You hereby grant to Sequømics and to recipients of software distributed by Sequømics a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the work, where such license applies only to those patent claims licensable by you that are necessarily infringed by your contribution(s) alone or by combination of your contribution(s) with the work to which such contribution(s) was submitted. If any entity institutes patent litigation against you or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your contribution, or the work to which you have contributed, constitutes direct or contributory patent infringement, then any patent licenses granted to that entity under this agreement for that contribution or work shall terminate as of the date such litigation is filed.
