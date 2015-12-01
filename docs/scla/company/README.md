@@ -20,3 +20,7 @@ Subject to the terms and conditions of this agreement, You hereby grant to Sequ√
 <b>4. Legal Entitlement.</b>
 
 You represent that you are legally entitled to grant the above license. You are representing and holding authority further that each employee of the corporation entitled to work and designated on behalf of you as a valid contributor. As well as, a subsequent written modification(s) of license is authorized to submit contributions on behalf of the Corporation.
+
+<b>5. Originality of Work.</b>
+
+You represent that each of your contributions is your original creation (see section 7. for submissions on behalf of others). Please make it sure, every contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of the given contributions.
