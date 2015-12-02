@@ -31,3 +31,7 @@
 // main module.
 // @require   : grunt
 // @require   : grunt-cli
+
+// required utility module
+// linter module
+// @require   : grunt-htmlhint
