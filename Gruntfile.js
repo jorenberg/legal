@@ -36,3 +36,4 @@
 // linter module
 // @require   : grunt-htmlhint
 // @require   : grunt-scss-lint
+// @require   : grunt-contrib-csslint
