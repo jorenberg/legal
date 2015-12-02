@@ -35,3 +35,4 @@
 // required utility module
 // linter module
 // @require   : grunt-htmlhint
+// @require   : grunt-scss-lint
