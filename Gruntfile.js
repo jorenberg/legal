@@ -38,3 +38,6 @@
 // @require   : grunt-scss-lint
 // @require   : grunt-contrib-csslint
 // @require   : grunt-contrib-jshint
+
+// minifier module
+// @require   : grunt-contrib-htmlmin
