@@ -73,3 +73,7 @@
 // 3. Task for "clean files and folders",
 // 4. Task for "Assemble": Default, and
 // 5. Task for "Travis CI", using ".travis.yml" from root.
+
+
+/* Invoking strict mode. */
+"use strict";
