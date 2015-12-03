@@ -59,3 +59,4 @@
 
 // Note: To import project metadata into the Grunt config.
 // @require   : package.json
+// @require   : _config.yml
