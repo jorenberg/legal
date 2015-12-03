@@ -45,3 +45,4 @@
 
 // helper module
 // @require   : grunt-contrib-concat
+// @require   : grunt-contrib-copy
