@@ -65,3 +65,4 @@
 // Grunt Task Registration through API.
 // ====================================
 // @method    : grunt.loadNpmTasks(pluginName)
+// @method    : grunt.registerTask(task-name)
