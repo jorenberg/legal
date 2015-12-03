@@ -37,3 +37,4 @@
 // @require   : grunt-htmlhint
 // @require   : grunt-scss-lint
 // @require   : grunt-contrib-csslint
+// @require   : grunt-contrib-jshint
