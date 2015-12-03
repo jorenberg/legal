@@ -51,3 +51,4 @@
 
 // miscellaneous module
 // @require   : jit-grunt
+// @require   : time-grunt
