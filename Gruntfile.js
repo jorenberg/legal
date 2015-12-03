@@ -60,3 +60,8 @@
 // Note: To import project metadata into the Grunt config.
 // @require   : package.json
 // @require   : _config.yml
+
+// ====================================
+// Grunt Task Registration through API.
+// ====================================
+// @method    : grunt.loadNpmTasks(pluginName)
