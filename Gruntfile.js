@@ -42,3 +42,6 @@
 // minifier module
 // @require   : grunt-contrib-htmlmin
 // @require   : grunt-contrib-cssmin
+
+// helper module
+// @require   : grunt-contrib-concat
