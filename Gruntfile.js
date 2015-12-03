@@ -48,3 +48,6 @@
 // @require   : grunt-contrib-copy
 // @require   : grunt-contrib-clean
 // @require   : grunt-sync-pkg
+
+// miscellaneous module
+// @require   : jit-grunt
