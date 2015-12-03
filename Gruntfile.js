@@ -41,3 +41,4 @@
 
 // minifier module
 // @require   : grunt-contrib-htmlmin
+// @require   : grunt-contrib-cssmin
