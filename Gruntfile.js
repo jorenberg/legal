@@ -47,3 +47,4 @@
 // @require   : grunt-contrib-concat
 // @require   : grunt-contrib-copy
 // @require   : grunt-contrib-clean
+// @require   : grunt-sync-pkg
