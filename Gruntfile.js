@@ -52,3 +52,7 @@
 // miscellaneous module
 // @require   : jit-grunt
 // @require   : time-grunt
+
+// BUILD MODULE
+// ============
+// @require   : assemble
