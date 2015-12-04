@@ -1,0 +1,45 @@
+// 9. Transitions
+// Path: legal/source/core/sass/mixins/
+// The transition CSS property can enables to define the transition between two states of an element.
+// Different states may be defined using pseudo-classes like :hover or :active or dynamically set using JavaScript.
+// 1. transition - a shorthand property for below - "all".
+// 2. transition-property
+// 3. transition-delay
+// 4. transition-duration
+// 5. transition-timing-function
+
+// 1.
+@mixin transition($transition...) {
+  -webkit-transition: $transition;
+     -moz-transition: $transition;
+       -o-transition: $transition;
+          transition: $transition;
+}
+// 2.
+@mixin transition-property($transition-property...) {
+  -webkit-transition-property: $transition-property;
+     -moz-transition-property: $transition-property;
+       -o-transition-property: $transition-property;
+          transition-property: $transition-property;
+}
+// 3.
+@mixin transition-delay($transition-delay) {
+  -webkit-transition-delay: $transition-delay;
+     -moz-transition-delay: $transition-delay;
+       -o-transition-delay: $transition-delay;
+          transition-delay: $transition-delay;
+}
+// 4.
+@mixin transition-duration($transition-duration...) {
+  -webkit-transition-duration: $transition-duration;
+     -moz-transition-duration: $transition-duration;
+       -o-transition-duration: $transition-duration;
+          transition-duration: $transition-duration;
+}
+// 5.
+@mixin transition-timing-function($timing-function) {
+  -webkit-transition-timing-function: $timing-function;
+     -moz-transition-timing-function: $timing-function;
+       -o-transition-timing-function: $timing-function;
+          transition-timing-function: $timing-function;
+}
