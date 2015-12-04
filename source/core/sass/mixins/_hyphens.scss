@@ -1,0 +1,15 @@
+// 6. Optional hyphenation
+// Path: legal/source/core/sass/mixins/
+
+// The hyphens CSS property tells the browser how to hyphenate words when line-wrapping.
+// Hypenation rules are language-specific. xml:lang attribute must be used.
+// Values: none || manual || auto || inherit || initial || unset
+
+@mixin hyphens($mode: auto) {
+  word-wrap: break-word;
+  -webkit-hyphens: $mode;
+     -moz-hyphens: $mode;
+      -ms-hyphens: $mode; // IE10+
+       -o-hyphens: $mode;
+          hyphens: $mode;
+}
