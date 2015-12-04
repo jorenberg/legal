@@ -1,0 +1,38 @@
+{
+  "name": "legal",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sequomics/legal",
+  "authors": [
+    "Prabhat Kumar <prabhat.genome@gmail.com>",
+    "Sequømics Corporation <sequomics@gmail.com>"
+  ],
+  "description": "Legal Docs of Sequømics Corporation.",
+  "main": "source/core/javascripts/index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Sequømics",
+    "Corporation",
+    "Innovate",
+    "Precisely",
+    "Legal"
+  ],
+  "license": "Apache-2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "LICENSE",
+    "_config.yml",
+    ".travis.yml"
+  ],
+  "dependencies": {
+  	"d3": "^3.5.10",
+  	"html5shiv": "^3.7.2",
+  	"respond": "^1.4.2"
+  }
+}
