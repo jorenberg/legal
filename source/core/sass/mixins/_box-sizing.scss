@@ -1,0 +1,10 @@
+// 4. Box sizing
+// Path: legal/source/core/sass/mixins/
+// The box-sizing property is used to alter the default CSS box model used to calculate widths and heights of elements.
+// Values: content-box || border-box || inherit || initial || unset
+
+@mixin box-sizing($boxmodel) {
+  -webkit-box-sizing: $boxmodel;
+     -moz-box-sizing: $boxmodel;
+          box-sizing: $boxmodel;
+}
