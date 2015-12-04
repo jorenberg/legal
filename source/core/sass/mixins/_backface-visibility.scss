@@ -1,0 +1,12 @@
+// 7. Backface Visibility
+// Path: legal/source/core/sass/mixins/
+// The CSS backface-visibility property determines whether or not the back face of the element is visible when facing the user.
+// Prevent browsers from flickering when using CSS 3D transforms.
+// Default value is `visible`.
+// Values: visible || hidden
+
+@mixin backface-visibility($visibility) {
+  -webkit-backface-visibility: $visibility;
+     -moz-backface-visibility: $visibility;
+          backface-visibility: $visibility;
+}
