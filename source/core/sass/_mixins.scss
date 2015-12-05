@@ -1,2 +1,8 @@
 // Legal® [v1.0.0]
 // Sass mixins for Legal®.
+
+// Importing partials/modules through "@import" directive.
+// 1.
+@import "mixins/clearfix";
+// 2.
+@import "mixins/opacity";
