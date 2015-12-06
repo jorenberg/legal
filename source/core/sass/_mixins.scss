@@ -22,3 +22,17 @@
 @import "mixins/transitions";
 // 10.
 @import "mixins/animations";
+// 11.
+@import "mixins/keyframes";
+
+// ==========================================
+// A. Mixin helper to output vendor prefixes.
+// @param {String} $property - Unprefixed CSS property
+// @param {*} $value - Raw CSS value
+// @param {List} $prefixes - List of prefixes to output
+@mixin prefix($property, $value, $prefixes: ()) {
+  @each $prefix in $prefixes {
+    -#{$prefix}-#{$property}: $value;
+  }
+  #{$property}: $value;
+}
