@@ -22,3 +22,30 @@ html {
 @-ms-viewport       { width: device-width; }
 @-o-viewport        { width: device-width; }
 @viewport           { width: device-width; }
+
+// Scroll Bar for -webkit- engine.
+$axix-webkit-background-color:            #4F4540 !default;
+$axix-webkit-scrollbar-thumb-color:       #B58418 !default;
+$axix-webkit-scrollbar-thumb-hover-color: #DAA520 !default;
+
+::-webkit-scrollbar {
+  background: $axix-webkit-background-color;
+  width: 8px;
+  height: 32px;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+::-webkit-scrollbar-track {
+  background: $axix-webkit-background-color;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $axix-webkit-scrollbar-thumb-color;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $axix-webkit-scrollbar-thumb-hover-color;
+}
