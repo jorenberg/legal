@@ -5,3 +5,10 @@ body {
   font-family: $axix-base-font-family;
   font-size: 14px;
 }
+
+// defaults
+body.axix-legal {
+  font-family: $axix-base-font-family-sans-serif;
+  font-size: $axix-base-font-size;
+  line-height: $axix-base-line-height;
+}
