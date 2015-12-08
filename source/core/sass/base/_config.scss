@@ -6,3 +6,6 @@ $axix-base-font-family:  quote(Helvetica Neue), Helvetica, Arial, sans-serif !de
 $axix-base-font-family-sans-serif:              quote(Open Sans), sans-serif !default;
 $axix-base-font-family-display:                   quote(Poiret One), cursive !default;
 $axix-base-font-size:                                                   14px !default;
+// 1.1 Heading: <h1> to <h6>
+$axix-base-font-size-h1:                floor(($axix-base-font-size * 2.00)) !default; // ~28px
+$axix-base-font-size-h2:                floor(($axix-base-font-size * 1.74)) !default; // ~24px
