@@ -29,3 +29,5 @@ $axix-brand-color-light:                     lighten($axix-brand-color,7.9%) !de
 // 2.1 Global text link color.
 $axix-base-link-color:                                               #E79E36 !default;
 $axix-base-link-hover-color:                                         #E72E32 !default;
+// 2.2 Link hover decoration.
+$axix-base-hover-decoration:                                       underline !default;
