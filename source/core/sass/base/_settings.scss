@@ -5,3 +5,10 @@
 //    to enable or disable the `$axix-asset-pipeline` variable for all functions that accept it.
 //    @type Bool
 $axix-asset-pipeline:       false !default;
+
+// 2. Global variables to enable or disable vendor prefixes ==//==
+$axix-prefix-for-webkit:    true !default;
+$axix-prefix-for-mozilla:   true !default;
+$axix-prefix-for-microsoft: true !default;
+$axix-prefix-for-opera:     true !default;
+$axix-prefix-for-spec:      true !default;
