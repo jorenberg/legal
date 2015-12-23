@@ -1,1 +1,7 @@
 // AXIX-Pro® [v1.0.0], Default Settings.
+
+
+// 1. A global setting ==//==
+//    to enable or disable the `$axix-asset-pipeline` variable for all functions that accept it.
+//    @type Bool
+$axix-asset-pipeline:       false !default;
